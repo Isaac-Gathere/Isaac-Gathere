@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Isaac-Gathere
-- 👀 I’m interested in everything concerning technology...
-- 🌱 I’m currently learning at MMUST
+- 👀 I am a cybersecurity enthusiast and computer science student with a passion for keeping systems and networks secure. I have knowledge in web design and web penetration testing, as well as experience in digital forensics and malware analysisy...
+- 🌱 I’m currently learning at different institutions
 
 
 <!---
