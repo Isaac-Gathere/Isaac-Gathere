@@ -2,7 +2,7 @@
 
 # Hi there, I'm Isaac Gathere 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;DevOps+Enthusiast;AI+Engineer+%7C+LLM+Developer;Building+Scalable+Web+Applications;Docker+%7C+Cloud+%7C+Automation;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;DevOps;AI+Engineer+%7C+LLM+Developer;Building+Scalable+Web+Applications;Docker+%7C+Cloud+%7C+Automation;Always+Learning+Something+New" alt="Typing SVG" />
 
 <p>
 Building scalable software, automating deployments, and exploring the future of AI.
@@ -13,13 +13,10 @@ Building scalable software, automating deployments, and exploring the future of 
 ---
 
 ## -- About Me
-
-- - Full Stack Engineer passionate about building scalable applications
-- - Interested in DevOps, Cloud Engineering, and Platform Engineering
-- - Exploring AI Engineering, Agentic AI, and LLM-powered applications
-- - Based in Nairobi, Kenya
-- - Always learning and building
-
+- Full Stack Engineer passionate about building scalable applications
+- Interested in DevOps, Cloud Engineering, and Platform Engineering
+- Exploring AI Engineering, Agentic AI, and LLM-powered applications
+- Always learning and building
 ---
 
 ## Tech Stack
@@ -92,27 +89,9 @@ Building scalable software, automating deployments, and exploring the future of 
 
 </p>
 
----
-
-## - GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ## - Current Focus
-
-- Enterprise Software Development
-- Full Stack Applications
-- DevOps & CI/CD
-- Kubernetes
 - AI Agents
 - Cloud Native Applications
-
 ---
 
 ## - Connect with Me
