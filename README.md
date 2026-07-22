@@ -45,20 +45,6 @@ Building scalable software, automating deployments, and exploring the future of 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,nginx,linux,git,bash,azure" />
 </p>
 
-### AI Engineering
-
-- LangChain
-- LangGraph
-- LlamaIndex
-- OpenAI API
-- MCP (Model Context Protocol)
-- CrewAI
-- AutoGen
-- Ollama
-- vLLM
-- Vector Databases
-- RAG
-
 ## - Connect with Me
 
 <p align="left">
