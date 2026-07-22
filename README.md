@@ -59,29 +59,6 @@ Building scalable software, automating deployments, and exploring the future of 
 - Vector Databases
 - RAG
 
----
-
-## - Currently Learning
-- Azure
-- Terraform
-- Ansible
-- Platform Engineering
-- AI Agents
-- Agentic Workflows
-- LangGraph
-- MCP
-- LlamaIndex
-- CrewAI
-- Prompt Engineering
-- MLOps
-
----
-
-## - Current Focus
-- AI Agents
-- Cloud Native Applications
----
-
 ## - Connect with Me
 
 <p align="left">
